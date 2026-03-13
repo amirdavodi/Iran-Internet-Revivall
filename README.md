@@ -18,13 +18,6 @@
 ابتدا باید به سروری که اینترنت آزاد دارد (مثل آلمان، فنلاند یا ...) وصل شوید تا نقش تامین‌کننده اینترنت را ایفا کند.
 
 * دستور زیر را در ترمینال سرور خارج کپی و اجرا کنید:
+
 ```bash
 curl -sLO [https://raw.githubusercontent.com/amirdavodi/Iran-Internet-Revivall/refs/heads/main/install.sh](https://raw.githubusercontent.com/amirdavodi/Iran-Internet-Revivall/refs/heads/main/install.sh) && bash install.sh
-• گزینه 1 (Foreign Server) را انتخاب کنید.
-• آی‌پی سرور ایران و یوزرنیم آن را وارد کنید.
-• در صورت درخواست پسورد، آن را وارد نمایید.
-• نکته: تا پایان مراحل در سرور ایران، این ترمینال را نبندید.
-۲. اجرا و احیا در سرور ایران (Iran Server)
-حالا به سرور داخل ایران (که اینترنت ندارد) متصل شوید.
-• دقیقاً همان دستور بالا را کپی و اجرا کنید:
-```curl -sLO [https://raw.githubusercontent.com/amirdavodi/Iran-Internet-Revivall/refs/heads/main/install.sh](https://raw.githubusercontent.com/amirdavodi/Iran-Internet-Revivall/refs/heads/main/install.sh) && bash install.sh
